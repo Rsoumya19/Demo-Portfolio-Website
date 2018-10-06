@@ -75,7 +75,7 @@ nav ul li a:hover {/*hover selector is used to select elements when you mouse ov
 
 .project {
   text-decoration: none;
-  color: #008080;
+  color: #B22222; /* Green color changed to Brick red */
   display: inline-block;
   overflow: hidden;
   border: 2px solid lightblue;
