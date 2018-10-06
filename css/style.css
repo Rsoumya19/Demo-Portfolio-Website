@@ -182,7 +182,8 @@ such as width and height of the viewport or device, resolution, etc*/
   /*    #contact{
     min-height:1100px; 
   } */
-  .contact-details {
+  .contact-details { /*   height:800px; */
+  /*   min-height:800px; */
     border: 2px solid #90C695;
     border-radius: 0;
     width: 90px;
