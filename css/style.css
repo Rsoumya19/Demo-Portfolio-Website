@@ -105,7 +105,7 @@ nav ul li a:hover {/*hover selector is used to select elements when you mouse ov
                           /*here auto tells the browser to automatically determine the left and right margins itself,
                            which it does by setting them equally */
   background: #e0ebe8;
-  color: #008080;
+  color: #008080;    /*it gives a specific colour*/
   font-weight: bold;        /*font weight sets how thick or thin characters in text should be displayed */
   font-size: 1em;           /*font size sets the size of the font */
   border: 2px solid #90C695;/*border property allows you to specify the style, width, and color of an element's border */
